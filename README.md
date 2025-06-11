@@ -20,7 +20,7 @@ Follow the steps below to get the app running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/color-picker-app.git
+https://github.com/SoorajTechie/color-picker-app.git
 cd color-picker-app
 ```
 ### 1. Install Dependencies
